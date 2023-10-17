@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    background-color: #eeeeee;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.parent{
+    flex-direction: column;
+    display: flex;
+    background-color:white;
+    border-radius: 10px;
+    width: 250px;
+    height: 430px;
+    padding: 20px;
+}
+.child2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.hello{
+    border-radius: 10px
+}
+.hey{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+}
+h5{
+    padding-top: -80px;
+}
